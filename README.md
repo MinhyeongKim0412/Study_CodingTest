@@ -1,4 +1,4 @@
-# Study_CodingTest
+
 ```
 Study_CodingTest
 ├─ B1000.java
@@ -28,7 +28,17 @@ Study_CodingTest
 ├─ B9046.java
 ├─ B9342.java
 ├─ B9996.java
+├─ P_Day10_바탕화면 정리.py
+├─ P_Day11_기사단원의 무기.py
 ├─ P_Day1_배열 조각하기.py
+├─ P_Day2_OX퀴즈.py
+├─ P_Day3_편지.py
+├─ P_Day4_직사각형 넓이 구하기.py
+├─ P_Day5_저주의숫자 3.py
+├─ P_Day6_다음에 올 숫자.py
+├─ P_Day7_부족한 금액 계산하기.py
+├─ P_Day8_데이터 분석.py
+├─ P_Day9_폰켓몬.py
 └─ README.md
 
 ```
